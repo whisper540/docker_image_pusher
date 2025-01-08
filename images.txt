@@ -12,4 +12,4 @@ ghcr.io/wg-easy/wg-easy:latest
 redis:alpine
 mysql:5.7
 phpdockerio/php:7.4-fpm
-onlyoffice/documentserver:latest
+cooderl/wewe-rss-sqlite:latest
