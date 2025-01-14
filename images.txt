@@ -13,3 +13,5 @@ redis:alpine
 mysql:5.7
 phpdockerio/php:7.4-fpm
 cooderl/wewe-rss-sqlite:latest
+diygod/rsshub
+browserless/chrome
