@@ -6,12 +6,16 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 # 以下为stone540常用镜像
 nginx
-nginx:alpine
-jc21/nginx-proxy-manager:latest
-ghcr.io/wg-easy/wg-easy:latest
-redis:alpine
-mysql:5.7
-phpdockerio/php:7.4-fpm
-cooderl/wewe-rss-sqlite:latest
-diygod/rsshub
-browserless/chrome
+#nginx:alpine
+#jc21/nginx-proxy-manager:latest
+#ghcr.io/wg-easy/wg-easy:latest
+#redis:alpine
+#mysql:5.7
+#phpdockerio/php:7.4-fpm
+#cooderl/wewe-rss-sqlite:latest
+#diygod/rsshub
+#browserless/chrome
+metabase/metabase:latest
+maildev/maildev
+pgautoupgrade/pgautoupgrade:latest
+redis:7-alpine
