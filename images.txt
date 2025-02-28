@@ -5,7 +5,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 # 以下为stone540常用镜像
-nginx
+#nginx
 #nginx:alpine
 #jc21/nginx-proxy-manager:latest
 #ghcr.io/wg-easy/wg-easy:latest
@@ -15,7 +15,8 @@ nginx
 #cooderl/wewe-rss-sqlite:latest
 #diygod/rsshub
 #browserless/chrome
-metabase/metabase:latest
-maildev/maildev
-pgautoupgrade/pgautoupgrade:latest
-redis:7-alpine
+#metabase/metabase:latest
+#maildev/maildev
+#pgautoupgrade/pgautoupgrade:latest
+#redis:7-alpine
+docker.io/library/python:3.10-slim-bookworm@sha256:f680fc3f447366d9be2ae53dc7a6447fe9b33311af209225783932704f0cb4e7
