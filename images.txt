@@ -19,4 +19,5 @@
 #maildev/maildev
 #pgautoupgrade/pgautoupgrade:latest
 #redis:7-alpine
-docker.io/library/python:3.10-slim-bookworm@sha256:f680fc3f447366d9be2ae53dc7a6447fe9b33311af209225783932704f0cb4e7
+#docker.io/library/python:3.10-slim-bookworm@sha256:f680fc3f447366d9be2ae53dc7a6447fe9b33311af209225783932704f0cb4e7
+onlyoffice/documentserver-de
