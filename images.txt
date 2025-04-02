@@ -22,5 +22,6 @@
 #docker.io/library/python:3.10-slim-bookworm@sha256:f680fc3f447366d9be2ae53dc7a6447fe9b33311af209225783932704f0cb4e7
 #onlyoffice/documentserver-de
 #portainer/portainer-ce
-pihole/pihole:latest
-sameersbn/bind:latest
+#pihole/pihole:latest
+#sameersbn/bind:latest
+sameersbn/bind:9.16.1-20200524
