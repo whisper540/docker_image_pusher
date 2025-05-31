@@ -24,4 +24,5 @@
 #portainer/portainer-ce
 #pihole/pihole:latest
 #sameersbn/bind:latest
-sameersbn/bind:9.16.1-20200524
+#sameersbn/bind:9.16.1-20200524
+sanjusss/aliyun-ddns:latest
