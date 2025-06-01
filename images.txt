@@ -26,3 +26,4 @@
 #sameersbn/bind:latest
 #sameersbn/bind:9.16.1-20200524
 sanjusss/aliyun-ddns:latest
+sanjusss/aliyun-ddns:0.2.7.3-linux-amd64
