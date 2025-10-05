@@ -30,4 +30,5 @@
 #sanjusss/aliyun-ddns:0.2.7.3-linux-arm64v8
 #joxit/docker-registry-ui:main
 #jc21/nginx-proxy-manager:latest
-postgres:latest
+#postgres:latest
+jc21/mariadb-aria:latest
