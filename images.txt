@@ -31,4 +31,5 @@
 #joxit/docker-registry-ui:main
 #jc21/nginx-proxy-manager:latest
 #postgres:latest
-jc21/mariadb-aria:latest
+#jc21/mariadb-aria:latest
+portainer/portainer-ce:latest
