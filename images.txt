@@ -32,4 +32,5 @@
 #jc21/nginx-proxy-manager:latest
 #postgres:latest
 #jc21/mariadb-aria:latest
-portainer/portainer-ce:latest
+#portainer/portainer-ce:latest
+openjdk:8-jdk
