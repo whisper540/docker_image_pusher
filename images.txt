@@ -34,4 +34,5 @@
 #jc21/mariadb-aria:latest
 #portainer/portainer-ce:latest
 #openjdk:8-jdk
-vaultwarden/server:latest
+#vaultwarden/server:latest
+teddysun/xray:latest
