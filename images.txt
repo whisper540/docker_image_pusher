@@ -33,4 +33,5 @@
 #postgres:latest
 #jc21/mariadb-aria:latest
 #portainer/portainer-ce:latest
-openjdk:8-jdk
+#openjdk:8-jdk
+vaultwarden/server:latest
