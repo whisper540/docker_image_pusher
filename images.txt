@@ -38,4 +38,5 @@
 #teddysun/xray:latest
 #docker.io/bitnamilegacy/minio:latest
 #quay.io/minio/minio:latest
-minio/minio:RELEASE.2025-04-22T22-12-26Z
+#minio/minio:RELEASE.2025-04-22T22-12-26Z
+rustfs/rustfs:latest
