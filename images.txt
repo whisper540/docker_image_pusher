@@ -37,4 +37,4 @@
 #vaultwarden/server:latest
 #teddysun/xray:latest
 #bitnami/minio
-bitnamicharts/minio:latest
+docker.io/bitnamilegacy/minio:latest
