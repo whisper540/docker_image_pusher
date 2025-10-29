@@ -35,4 +35,5 @@
 #portainer/portainer-ce:latest
 #openjdk:8-jdk
 #vaultwarden/server:latest
-teddysun/xray:latest
+#teddysun/xray:latest
+quay.io/minio/aistor/minio
