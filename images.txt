@@ -36,4 +36,5 @@
 #openjdk:8-jdk
 #vaultwarden/server:latest
 #teddysun/xray:latest
-quay.io/minio/aistor/minio
+#quay.io/minio/aistor/minio
+minio/minio:latest
