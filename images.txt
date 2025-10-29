@@ -38,4 +38,4 @@
 #teddysun/xray:latest
 #docker.io/bitnamilegacy/minio:latest
 #quay.io/minio/minio:latest
-ghcr.io/beck-8/minio:release.2025-10-15t17-29-55z
+minio/minio:RELEASE.2025-04-22T22-12-26Z
