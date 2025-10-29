@@ -37,4 +37,5 @@
 #vaultwarden/server:latest
 #teddysun/xray:latest
 #docker.io/bitnamilegacy/minio:latest
-quay.io/minio/minio:latest
+#quay.io/minio/minio:latest
+ghcr.io/beck-8/minio:release.2025-10-15t17-29-55z
