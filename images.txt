@@ -39,4 +39,6 @@
 #docker.io/bitnamilegacy/minio:latest
 #quay.io/minio/minio:latest
 #minio/minio:RELEASE.2025-04-22T22-12-26Z
-rustfs/rustfs:latest
+#rustfs/rustfs:latest
+rustdesk/rustdesk-server:latest
+v5star/rustdesk-api:latest
