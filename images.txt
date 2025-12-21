@@ -40,5 +40,6 @@
 #quay.io/minio/minio:latest
 #minio/minio:RELEASE.2025-04-22T22-12-26Z
 #rustfs/rustfs:latest
-rustdesk/rustdesk-server:latest
-v5star/rustdesk-api:latest
+#rustdesk/rustdesk-server:latest
+#v5star/rustdesk-api:latest
+python:3.13-slim-bullseye
