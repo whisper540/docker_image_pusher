@@ -42,4 +42,5 @@
 #rustfs/rustfs:latest
 #rustdesk/rustdesk-server:latest
 #v5star/rustdesk-api:latest
-python:3.13-slim-bullseye
+#python:3.13-slim-bullseye
+onlyoffice/documentserver-ee
