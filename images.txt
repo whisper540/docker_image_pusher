@@ -43,4 +43,5 @@
 #rustdesk/rustdesk-server:latest
 #v5star/rustdesk-api:latest
 #python:3.13-slim-bullseye
-onlyoffice/documentserver-ee
+#onlyoffice/documentserver-ee
+docker.n8n.io/n8nio/n8n:latest
