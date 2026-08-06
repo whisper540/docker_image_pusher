@@ -49,4 +49,5 @@
 #milvusdb/milvus:v2.6.21
 #pgvector/pgvector:0.8.5-pg18-trixie
 #registry.cn-shanghai.aliyuncs.com/akfamily/aktools:jupyter
-registry.cn-shanghai.aliyuncs.com/akfamily/aktools:latest
+#registry.cn-shanghai.aliyuncs.com/akfamily/aktools:latest
+kkqy/aktools:latest
