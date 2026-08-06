@@ -43,9 +43,9 @@
 #v5star/rustdesk-api:latest
 #python:3.13-slim-bullseye
 #onlyoffice/documentserver-ee
-docker.n8n.io/n8nio/n8n:latest
-n8nio/runners:latest
+#docker.n8n.io/n8nio/n8n:latest
+#n8nio/runners:latest
 #quay.io/coreos/etcd:v3.5.25
 #milvusdb/milvus:v2.6.21
 #pgvector/pgvector:0.8.5-pg18-trixie
-
+registry.cn-shanghai.aliyuncs.com/akfamily/aktools:jupyter
