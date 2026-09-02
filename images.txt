@@ -51,4 +51,4 @@ n8nio/runners:latest
 #registry.cn-shanghai.aliyuncs.com/akfamily/aktools:jupyter
 #registry.cn-shanghai.aliyuncs.com/akfamily/aktools:latest
 #kkqy/aktools:latest
-gdy666/lucky
+#gdy666/lucky
