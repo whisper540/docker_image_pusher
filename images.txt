@@ -33,7 +33,7 @@
 #jc21/mariadb-aria:latest
 #portainer/portainer-ce:latest
 #openjdk:8-jdk
-#vaultwarden/server:latest
+vaultwarden/server:latest
 #teddysun/xray:latest
 #docker.io/bitnamilegacy/minio:latest
 #quay.io/minio/minio:latest
@@ -52,4 +52,4 @@
 #registry.cn-shanghai.aliyuncs.com/akfamily/aktools:latest
 #kkqy/aktools:latest
 #gdy666/lucky
-mzz2017/v2raya
+#mzz2017/v2raya
